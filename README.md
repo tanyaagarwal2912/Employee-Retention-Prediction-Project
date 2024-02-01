@@ -14,7 +14,7 @@ Key Learnings —>
 
 ~Develop a function in python and apply it to pandas data frame
 
-~Perform EDA using matplotlib and seabird libraries
+~Perform EDA using matplotlib and seaborn libraries
 
 ~Plot KDE plots, box plots, count plots
 
